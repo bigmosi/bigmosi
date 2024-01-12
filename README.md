@@ -1,10 +1,10 @@
-# Hello, I'm [Your Name]!
+# Hello, I'm Kinyera Amos!
 
-I'm passionate about [Your Interests]. Here are some things you might find interesting about me:
+I'm passionate about FullStack Web Development. Here are some things you might find interesting about me:
 
 ## Skills
-- Programming languages: [List of languages]
-- Web technologies: [List of technologies]
+- Programming languages: Javascript, Typescript and Ruby
+- Web technologies: React, Next, Node, Mongodb and Express
 - ...
 
 ## Projects
