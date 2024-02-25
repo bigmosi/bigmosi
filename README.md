@@ -1,4 +1,4 @@
-# Hello, I'm Kinyera Amos! 👋#
+# Hello, I'm Kinyera Amos! 👋
 
 I'm a FullStack Web Developer passionate about crafting exceptional digital experiences. Here's a snapshot of what I bring to the table:
 
