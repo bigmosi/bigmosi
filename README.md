@@ -24,7 +24,7 @@ Integrated front-end with Ruby on Rails backend using API endpoints.
 Ensured smooth user experience with React and Redux on the front-end.
 Project Link
 🎓 Education
-Bachelor's Degree in Information Technology and Computing, Kyambogo University
+  Bachelor's Degree in Information Technology and Computing, Kyambogo University
 📫 Get in Touch
-Email: kinyeramo@gmail.com
+ Email: kinyeramo@gmail.com
 Thanks for stopping by! Feel free to reach out if you have any questions or opportunities to discuss.
