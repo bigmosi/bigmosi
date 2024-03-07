@@ -6,7 +6,7 @@ I'm a FullStack Web Developer passionate about crafting exceptional digital expe
 Languages: JavaScript, TypeScript, Ruby
 Frameworks/Libraries: React, Next.js, Node.js, Express.js
 Databases: MongoDB, PostgreSQL
-Tools & Technologies: Git, GitHub, Heroku, Netlify, Agile/Scrum
+Tools & Technologies: Git, GitHub, Heroku, Netlify
 💼 Projects
 1. Budget App
 Developed a budget management application using Ruby on Rails and PostgreSQL.
