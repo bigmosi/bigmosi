@@ -4,7 +4,7 @@ I'm a FullStack Web Developer passionate about crafting exceptional digital expe
 
 🚀 Skills
 Languages: JavaScript, TypeScript, Ruby
-Frameworks/Libraries: React, Next.js, Node.js, Express.js
+Frameworks/Libraries: React,React Native, Next.js, Node.js, Express.js
 Databases: MongoDB, PostgreSQL
 Tools & Technologies: Git, GitHub, Heroku, Netlify
 💼 Projects
