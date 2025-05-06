@@ -22,7 +22,6 @@ Project Link
 Developed an application for users to track vehicle maintenance and expenses.
 Integrated front-end with Ruby on Rails backend using API endpoints.
 Ensured smooth user experience with React and Redux on the front-end.
-Project Link
 🎓 Education
   Bachelor's Degree in Information Technology and Computing, Kyambogo University
 📫 Get in Touch
