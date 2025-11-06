@@ -1,29 +1,94 @@
-# Hello, I'm Kinyera Amos! 👋
+# 👋 Hi, I'm Kinyera Amos
 
-I'm a FullStack Web Developer passionate about crafting exceptional digital experiences. Here's a snapshot of what I bring to the table:
+**Full-Stack Developer | Frontend Specialist | React & TypeScript Expert**
 
-🚀 Skills
-Languages: JavaScript, TypeScript, Ruby
-Frameworks/Libraries: React,React Native, Next.js, Node.js, Express.js
-Databases: MongoDB, PostgreSQL
-Tools & Technologies: Git, GitHub, Heroku, Netlify
-💼 Projects
-1. Budget App
-Developed a budget management application using Ruby on Rails and PostgreSQL.
-Implemented user authentication and authorization using Devise gem.
-Ensured data security and user privacy through encryption measures.
-Project Link
-2. Space Traveler Hub
-Created a web platform for a company specializing in space travel services.
-Facilitated user interactions and seamless booking of rocket launches.
-Enhanced user experience and engagement with space missions.
-Project Link
-3. Car Book
-Developed an application for users to track vehicle maintenance and expenses.
-Integrated front-end with Ruby on Rails backend using API endpoints.
-Ensured smooth user experience with React and Redux on the front-end.
-🎓 Education
-  Bachelor's Degree in Information Technology and Computing, Kyambogo University
-📫 Get in Touch
- Email: kinyeramo@gmail.com
-Thanks for stopping by! Feel free to reach out if you have any questions or opportunities to discuss.
+I’m a full-stack developer with strong experience building modern user interfaces and scalable backend services. I work with React, TypeScript, Next.js, Node.js, Express, MongoDB, Ruby on Rails, and React Native — delivering end-to-end solutions for enterprise systems and innovative products.
+
+---
+
+## 🚀 About Me
+
+- 🌍 Based in **Kampala, Uganda**
+- 💼 Currently working at **Dango Tech Concept Limited** (Frontend)
+- 💡 Experienced in building:
+  - Smart Property Management Systems  
+  - Prepaid Water Metering Systems (“Pay-as-you-Flow”)  
+  - CRM, Billing, Accounting & HR Systems  
+  - Cross-platform mobile apps (React Native)
+
+I love building simple, clean, and scalable solutions using modern tools, with a focus on performance, accessibility, and great user experience.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- React, Next.js, TypeScript  
+- TailwindCSS, Shadcn/UI, Redux  
+- React Native (mobile apps)
+
+### **Backend**
+- Node.js, Express  
+- MongoDB, PostgreSQL  
+- Ruby on Rails
+
+### **Tools**
+- Git & GitHub  
+- Docker  
+- CI/CD  
+- REST APIs
+
+---
+
+## 📌 Featured Projects
+
+### **🏠 Nyumba Yo – Smart Property Management**
+A modern platform for:
+- Rent tracking  
+- Tenant onboarding  
+- Utility monitoring  
+- Complaint management  
+Built using **React, TypeScript, TailwindCSS, Shadcn/UI**.
+
+### **💧 Prepaid Water Metering System**
+“Pay-as-you-Flow” prepaid water system with:
+- Mobile Money integration  
+- Real-time meter readings  
+- Credit purchase workflow  
+- Analytics dashboards  
+Built with **React + Node.js**.
+
+### **📡 CRM & Accounting System**
+- Built reusable UI components  
+- Integrated AI-powered chatbot  
+- Complaint classification & tracking  
+- IFRS-compliant double-entry accounting features
+
+---
+
+## 📈 What I'm Working On
+- Advanced UI/UX with Shadcn and Tailwind  
+- Full-stack engineering for property & utility solutions  
+- AI-powered tools that enhance customer workflows  
+
+---
+
+## 📫 Contact Me
+
+📩 Email: **kinyeramo@gmail.com**  
+🌐 Portfolio: https://kinyera-amos-portfolio.netlify.app  
+💼 LinkedIn: https://www.linkedin.com/in/kinyera-amos  
+🐙 GitHub: https://github.com/bigmosi  
+📱 Phone: **+256 777 349 597**
+
+---
+
+## ✅ Fun Facts
+- 💪 I love fitness  
+- 📚 I enjoy reading & learning  
+- ✈️ I like travelling  
+- 🤝 I volunteer when I can  
+
+---
+
+Thanks for visiting my GitHub! 🚀
