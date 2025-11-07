@@ -82,13 +82,4 @@ Built with **React + Node.js**.
 📱 Phone: **+256 777 349 597**
 
 ---
-
-## ✅ Fun Facts
-- 💪 I love fitness  
-- 📚 I enjoy reading & learning  
-- ✈️ I like travelling  
-- 🤝 I volunteer when I can  
-
----
-
 Thanks for visiting my GitHub! 🚀
