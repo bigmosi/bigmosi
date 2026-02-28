@@ -10,7 +10,6 @@
 
 ### 👨🏾‍💻 About Me
 
-- 🔭 Currently building a **VSLAs financial platform** at Raising The Village
 - 🌍 Based in **Mbarara, Uganda** — working with global teams remotely
 - ⚡ Built a **civic app for South Sudan** citizens covering elections & fact-checking
 - 🛠️ 6+ years shipping React, Next.js, and TypeScript across fintech, e-commerce & enterprise SaaS
