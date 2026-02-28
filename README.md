@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kinyera+Amos;Senior+Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+products+that+matter)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kinyera+Amos;Full+Stack+Engineer;React+%7C+Next.js+%7C+Node.js;Building+products+that+matter)
 
 <img src="https://komarev.com/ghpvc/?username=bigmosi&label=Profile+Views&color=1F4E79&style=flat" alt="profile views" />
 
@@ -95,6 +95,16 @@
 | 🗳️ **The Clarity Desk** | Civic app for South Sudan — election monitoring, verified news & fact-checking with offline-first architecture | React Native, TypeScript, Context API |
 | 🏘️ **VSLAs Financial Platform** | Village Savings & Loan platform serving underserved communities across Uganda | React, TypeScript, Redux, TailwindCSS |
 | 🏠 **Nyumba Yo** | Smart property management SaaS — tenant portals, real-time dashboards, payment flows | React, TypeScript, Node.js, PostgreSQL |
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://github.com/bigmosi/bigmosi/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
