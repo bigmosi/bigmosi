@@ -11,7 +11,7 @@
 ### 👨🏾‍💻 About Me
 
 - 🌍 Based in **Mbarara, Uganda** — working with global teams remotely
-- ⚡ Built a **civic app for South Sudan** citizens covering elections & fact-checking
+- ⚡ Built a **The ClarityDesk app for South Sudan** citizens covering elections & fact-checking
 - 🛠️ 6+ years shipping React, Next.js, and TypeScript across fintech, e-commerce & enterprise SaaS
 - 💬 Ask me about **React architecture, state management, accessibility, and performance**
 - 📫 Reach me at **kinyeramo@gmail.com**
