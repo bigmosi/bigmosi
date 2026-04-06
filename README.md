@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kinyera+Amos;Full+Stack+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Python;Mobile+App+Developer;React+Native+%7C+Flutter;Building+products+that+matter)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kinyera+Amos;Full+Stack+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Python;Mobile+App+Engineer;React+Native+%7C+Flutter;Building+products+that+matter)
 
 <img src="https://komarev.com/ghpvc/?username=bigmosi&label=Profile+Views&color=1F4E79&style=flat" alt="profile views" />
 
