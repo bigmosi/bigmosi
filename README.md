@@ -32,6 +32,24 @@ Over the past 6+ years I've shipped production apps across fintech, civic tech, 
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bigmosi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigmosi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bigmosi&theme=tokyonight&hide_border=true&card_width=500)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ## Featured Projects
 
 | Project | Description | Stack |
