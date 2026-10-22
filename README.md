@@ -95,7 +95,7 @@ Git, GitHub, GitLab, Docker, AWS, Vite, Webpack, Linux, GitHub Actions
 ### Connect With Me
 
 - LinkedIn: [linkedin.com/in/kinyera-amos](https://linkedin.com/in/kinyera-amos)
-- Portfolio: [kinyera-amos-portfolio.netlify.app](https://kinyera-amos-portfolio.netlify.app)
+- Portfolio: [https://amoskinyera.dev/](https://amoskinyera.dev/)
 - Email: kinyeramo@gmail.com
 
 ---
